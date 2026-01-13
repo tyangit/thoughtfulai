@@ -40,9 +40,11 @@ User: What are the agents?
 
 AI: Thoughtful AI offers a suite of AI-powered automation agents designed to streamline healthcare processes. Some of the key agents include:
 
--Eligibility Verification Agent (EVA): Automates the process of verifying a patient's eligibility and benefits in real-time.
--Claims Processing Agent (CAM): Streamlines the submission and management of claims to improve accuracy and speed up reimbursements.
--Payment Posting Agent (PHIL): Automates posting payments to patient accounts for fast and accurate reconciliation.
+* Eligibility Verification Agent (EVA): Automates the process of verifying a patient's eligibility and benefits in real-time.
+
+* Claims Processing Agent (CAM): Streamlines the submission and management of claims to improve accuracy and speed up reimbursements.
+
+* Payment Posting Agent (PHIL): Automates posting payments to patient accounts for fast and accurate reconciliation.
 
 These agents help reduce administrative costs, improve operational efficiency, and minimize errors in critical healthcare processes.
 
