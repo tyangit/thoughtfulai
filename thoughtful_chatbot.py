@@ -12,10 +12,7 @@ load_dotenv(override=True)
 
 
 # %%
-
-MODEL = "gpt-4.1-nano"
 llm = ChatOpenAI(temperature=0, model_name=MODEL)
-
 
 # %%
 SYSTEM_PROMPT_TEMPLATE = """
